@@ -1,0 +1,1 @@
+This is Schluzz's first git project!
